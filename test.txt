@@ -9,7 +9,7 @@ line 8 Branching allows you to work on features in isolation.
 line 9 Merging brings those features back into the main code.
 line 10 Collaboration is easier with platforms like GitHub and GitLab.
 line 11 "git status" is the most frequent command developers use.
-line 12 It tells you which files are staged, unstaged, or untracked.
+line 12 This line is edited in CONFLICT-BRANCH.
 line 13 Always write clear and descriptive commit messages.
 line 14 Version control prevents accidental loss of hard work.
 line 15 Mastering these basics makes you a more efficient coder.
