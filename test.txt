@@ -1,0 +1,15 @@
+line 1 Git is a distributed version control system.
+line 2 It helps developers track changes in their source code.
+line 3 Every project directory in Git is a full-fledged repository.
+line 4 The staging area is a unique feature of Git.
+line 5 You use "git add" to move changes to the staging area.
+line 6 This allows you to craft precise commits.
+line 7 Commits are snapshots of your project at a specific time.
+line 8 Branching allows you to work on features in isolation.
+line 9 Merging brings those features back into the main code.
+line 10 Collaboration is easier with platforms like GitHub and GitLab.
+line 11 "git status" is the most frequent command developers use.
+line 12 It tells you which files are staged, unstaged, or untracked.
+line 13 Always write clear and descriptive commit messages.
+line 14 Version control prevents accidental loss of hard work.
+line 15 Mastering these basics makes you a more efficient coder.
