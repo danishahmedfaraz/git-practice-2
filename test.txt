@@ -1,4 +1,4 @@
-line 1 i am halfway done with this work .. 
+line 1 rebasing this.
 line 2 It helps developers track changes in their source code.
 line 3 Every project directory in Git is a full-fledged repository.
 line 4 The staging area is a unique feature of Git.
