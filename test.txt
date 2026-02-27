@@ -2,7 +2,7 @@ line 1 rebasing this.
 line 2 It helps developers track changes in their source code.
 line 3 Every project directory in Git is a full-fledged repository.
 line 4 The staging area is a unique feature of Git.
-line 5 You use "git add" to move changes to the staging area.
+line 5 again change damn.
 line 6 This allows you to craft precise commits.
 line 7 Commits are snapshots of your project at a specific time.
 line 8 Branching allows you to work on features in isolation.
