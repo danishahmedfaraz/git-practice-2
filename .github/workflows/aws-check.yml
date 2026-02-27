@@ -1,0 +1,12 @@
+name: AWS Template Check
+on: [push] # This is the trigger
+
+jobs:
+  lint-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v4
+
+      - name: Run a fake scan
+        run: echo "Danish, your AWS CloudFormation scan is running successfully!"
